@@ -1,0 +1,49 @@
+
+ --------------------------------- 
+   Email Analysis Report : 
+ ---------------------------------
+   Email:       shangayu166@gmail.com
+   Reputation:  none
+   Suspicious:  True
+   Spotted:     0 Times
+   Blacklisted: False
+   Last Seen:   never
+   Known Spam:  False
+
+ --------------------------------- 
+   Domain Report 
+ --------------------------------- 
+
+   Domain:        @gmail.com
+   Domain Exists: True
+   Domain Rep:    n/a
+   Domain Age:    10482 Days
+   New Domain:    False
+   Deliverable:   True
+   Free Provider: True
+   Disposable:    False
+   Spoofable:     True
+
+ --------------------------------- 
+   Malicious Activity Report 
+ --------------------------------- 
+
+   Malicious Activity: False
+   Recent Activity:    False
+   Credentials Leaked: False
+   Found in breach:    False
+
+ --------------------------------- 
+   Profiles Found 
+ --------------------------------- 
+ 
+  No Profiles Found For This User
+
+ --------------------------------- 
+   Summary of Report: 
+ ---------------------------------
+ 
+   Suspicious
+   We have not observed this email address on the internet, it is a free provider, and it has no profiles on major services like LinkedIn, Facebook, and iCloud
+   A lack of digital presence may simply indicate a new email address, but is typically suspicious
+   

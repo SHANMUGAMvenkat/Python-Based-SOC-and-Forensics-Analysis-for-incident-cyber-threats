@@ -1,0 +1,83 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:445            SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:5040           SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49664          SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49665          SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49668          SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49669          SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49670          SHANMUGAM_V:0          LISTENING
+  TCP    0.0.0.0:49684          SHANMUGAM_V:0          LISTENING
+  TCP    127.0.0.1:3443         SHANMUGAM_V:0          LISTENING
+  TCP    127.0.0.1:35432        SHANMUGAM_V:0          LISTENING
+  TCP    127.0.0.1:49673        platform:49674         ESTABLISHED
+  TCP    127.0.0.1:49674        platform:49673         ESTABLISHED
+  TCP    127.0.0.1:49716        platform:49717         ESTABLISHED
+  TCP    127.0.0.1:49717        platform:49716         ESTABLISHED
+  TCP    127.0.0.1:49718        platform:49719         ESTABLISHED
+  TCP    127.0.0.1:49719        platform:49718         ESTABLISHED
+  TCP    127.0.0.1:49720        platform:49721         ESTABLISHED
+  TCP    127.0.0.1:49721        platform:49720         ESTABLISHED
+  TCP    127.0.0.1:49722        platform:49723         ESTABLISHED
+  TCP    127.0.0.1:49723        platform:49722         ESTABLISHED
+  TCP    192.168.40.213:139     SHANMUGAM_V:0          LISTENING
+  TCP    192.168.40.213:50025   a23-44-10-9:https      CLOSE_WAIT
+  TCP    192.168.40.213:50065   a23-44-10-11:https     CLOSE_WAIT
+  TCP    192.168.40.213:50074   13.107.253.254:https   CLOSE_WAIT
+  TCP    192.168.56.1:139       SHANMUGAM_V:0          LISTENING
+  TCP    [::]:135               SHANMUGAM_V:0          LISTENING
+  TCP    [::]:445               SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49664             SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49665             SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49668             SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49669             SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49670             SHANMUGAM_V:0          LISTENING
+  TCP    [::]:49684             SHANMUGAM_V:0          LISTENING
+  TCP    [::1]:35432            SHANMUGAM_V:0          LISTENING
+  TCP    [::1]:35432            SHANMUGAM_V:50104      ESTABLISHED
+  TCP    [::1]:35432            SHANMUGAM_V:50105      ESTABLISHED
+  TCP    [::1]:35432            SHANMUGAM_V:50106      ESTABLISHED
+  TCP    [::1]:35432            SHANMUGAM_V:50107      ESTABLISHED
+  TCP    [::1]:49681            SHANMUGAM_V:0          LISTENING
+  TCP    [::1]:50104            SHANMUGAM_V:35432      ESTABLISHED
+  TCP    [::1]:50105            SHANMUGAM_V:35432      ESTABLISHED
+  TCP    [::1]:50106            SHANMUGAM_V:35432      ESTABLISHED
+  TCP    [::1]:50107            SHANMUGAM_V:35432      ESTABLISHED
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:49408  [2603:1040:a06:6::]:https  ESTABLISHED
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:49409  [2603:1040:a06:6::1]:https  ESTABLISHED
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:49833  [2620:100:6031:18::a27d:5112]:https  CLOSE_WAIT
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:50075  [2606:2800:247:b713:6f8:1d37:ecd5:e137]:https  CLOSE_WAIT
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:50084  [2606:2800:147:120f:30c:1ba0:fc6:265a]:https  CLOSE_WAIT
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:50086  [2620:1ec:bdf::68]:https  CLOSE_WAIT
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:50117  urlscan:https          TIME_WAIT
+  TCP    [2409:40f4:1009:c4c:7ce4:3f11:fc68:ab28]:50119  [64:ff9b::312c:83ac]:https  ESTABLISHED
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:52723        *:*                    
+  UDP    127.0.0.1:59849        127.0.0.1:59849        
+  UDP    192.168.40.213:137     *:*                    
+  UDP    192.168.40.213:138     *:*                    
+  UDP    192.168.40.213:1900    *:*                    
+  UDP    192.168.40.213:52722   *:*                    
+  UDP    192.168.56.1:137       *:*                    
+  UDP    192.168.56.1:138       *:*                    
+  UDP    192.168.56.1:1900      *:*                    
+  UDP    192.168.56.1:52721     *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:52720            *:*                    
+  UDP    [::1]:59850            [::1]:59850            
+  UDP    [fe80::79d8:10ca:510f:692a%17]:1900  *:*                    
+  UDP    [fe80::79d8:10ca:510f:692a%17]:52719  *:*                    
+  UDP    [fe80::9797:cff9:1603:6251%10]:1900  *:*                    
+  UDP    [fe80::9797:cff9:1603:6251%10]:52718  *:*                    

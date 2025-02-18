@@ -1,0 +1,32 @@
+
+ --------------------------------- 
+ VirusTotal Report:
+ --------------------------------- 
+
+
+ No of Databases Checked: 78
+ No of Reportings: 0
+ Average Score: 0.0
+ VirusTotal Report Link: https://www.virustotal.com/gui/url/a489833e0143e8029f258edfb79df7a4c6a936fa1902c48477ff26603b7f38a5/detection/u-a489833e0143e8029f258edfb79df7a4c6a936fa1902c48477ff26603b7f38a5-1594128751
+
+ --------------------------------- 
+ TOR Exit Node Report: 
+ --------------------------------- 
+
+ 192.168.187.104 is NOT a TOR Exit Node
+
+ ---------------------------------
+ BadIP's Report : 
+ --------------------------------- 
+
+  IP not found
+
+ ---------------------------------
+ ABUSEIPDB Report:
+ ---------------------------------
+
+
+ IP:        192.168.187.104
+ Reports:     0
+ Abuse Score: 0%
+ Last Report: None

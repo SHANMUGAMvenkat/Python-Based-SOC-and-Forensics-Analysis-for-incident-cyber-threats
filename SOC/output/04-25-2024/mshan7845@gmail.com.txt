@@ -1,0 +1,50 @@
+
+ --------------------------------- 
+   Email Analysis Report : 
+ ---------------------------------
+   Email:       mshan7845@gmail.com
+   Reputation:  medium
+   Suspicious:  False
+   Spotted:     1 Times
+   Blacklisted: False
+   Last Seen:   10/14/2020
+   Known Spam:  False
+
+ --------------------------------- 
+   Domain Report 
+ --------------------------------- 
+
+   Domain:        @gmail.com
+   Domain Exists: True
+   Domain Rep:    n/a
+   Domain Age:    10482 Days
+   New Domain:    False
+   Deliverable:   True
+   Free Provider: True
+   Disposable:    False
+   Spoofable:     True
+
+ --------------------------------- 
+   Malicious Activity Report 
+ --------------------------------- 
+
+   Malicious Activity: False
+   Recent Activity:    False
+   Credentials Leaked: True
+   Found in breach:    True
+
+ --------------------------------- 
+   Profiles Found 
+ --------------------------------- 
+ 
+  No Profiles Found For This User
+
+ --------------------------------- 
+   Summary of Report: 
+ ---------------------------------
+ 
+   Not suspicious
+   This email address has been seen in 1 reputable source on the internet
+   It has been seen in data breaches or credential leaks as recent as 10/14/2020, but not recently
+   We've observed no malicious or suspicious activity from this address
+   

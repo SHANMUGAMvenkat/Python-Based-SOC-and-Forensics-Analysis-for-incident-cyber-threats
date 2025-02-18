@@ -1,0 +1,47 @@
+
+ --------------------------------- 
+   Email Analysis Report : 
+ ---------------------------------
+   Email:       rkpailsurya19@gmail.com
+   Reputation:  none
+   Suspicious:  True
+   Spotted:     0 Times
+   Blacklisted: False
+   Last Seen:   never
+   Known Spam:  False
+
+ --------------------------------- 
+   Domain Report 
+ --------------------------------- 
+
+   Domain:        @gmail.com
+   Domain Exists: True
+   Domain Rep:    n/a
+   Domain Age:    10482 Days
+   New Domain:    False
+   Deliverable:   False
+   Free Provider: True
+   Disposable:    False
+   Spoofable:     True
+
+ --------------------------------- 
+   Malicious Activity Report 
+ --------------------------------- 
+
+   Malicious Activity: False
+   Recent Activity:    False
+   Credentials Leaked: False
+   Found in breach:    False
+
+ --------------------------------- 
+   Profiles Found 
+ --------------------------------- 
+ 
+  No Profiles Found For This User
+
+ --------------------------------- 
+   Summary of Report: 
+ ---------------------------------
+ 
+   This email address is likely fake or invalid because it is not deliverable, is from a free provider, and has no online presence or history
+   
